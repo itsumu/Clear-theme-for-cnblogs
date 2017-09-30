@@ -486,14 +486,14 @@ article header .title a:hover {
 }
 
 #cnblogs_post_body h2 {
-    padding-bottom: 4px;
     color: #5F9EA0;
     font-family: "黑体", "宋体", "微软雅黑", Arial;
     font-size: 20px;
     font-weight: bold;
-    margin: 20px 0 !important;
-    padding: 10px 0 10px 0px;
-    border-bottom: 1px solid #cccccc;
+    margin: 50px 0 0 0;
+    padding: 50px 0 20px 0px;
+    border-top: 1px;
+    border-top-style: ridge;
 }
 
 #cnblogs_post_body h3 {
