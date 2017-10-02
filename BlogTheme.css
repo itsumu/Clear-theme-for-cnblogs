@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    color: #258fcc;
 }
 
 .commentbox_main {
@@ -500,7 +500,7 @@ article header .title a:hover {
     padding-bottom: 4px;
     color: #005359;
     font-family: "黑体", "宋体", "微软雅黑", Arial;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     margin: 20px 0 !important;
     padding: 10px 0 10px 0px;
